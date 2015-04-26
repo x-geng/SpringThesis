@@ -1,2 +1,2 @@
 # SpringThesis
-Matlab codes of my thesis
+Matlab codes of my PhD thesis
